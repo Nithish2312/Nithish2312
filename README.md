@@ -1,7 +1,7 @@
 Hi there 👋
 
 
-- 🌱 I’m currently learning Flutter 
+- 🌱 I’m currently learning Flutter and Deep Learning
 - 👯 I’m looking to collaborate on Deep Learning and Flutter projects
 - 📫 How to reach me: https://www.linkedin.com/in/nithish-kumar-822998188/
 
