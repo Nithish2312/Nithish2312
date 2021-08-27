@@ -1,7 +1,7 @@
 Fancy seeing you here!!!👋
 I am Nithish!!
 
-- 🌱 I’m currently learning Flutter and Deep Learning
+- 🌱 I’m currently looking for a FTE opportunity for the roles of Flutter Developer, Web Developer and Software Engineer(SDE-2). 
 - 👯 I’m looking to collaborate on Deep Learning and Flutter projects
 - 📫 How to reach me: https://www.linkedin.com/in/nithish-kumar-822998188/ (or) nithishkumar23123456@gmail.com
 
