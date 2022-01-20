@@ -1,4 +1,4 @@
-Fancy seeing you here!!!👋
+Hey!!!👋
 I am Nithish!!
 
 - 🌱 I’m currently looking for a FTE opportunity for the roles of Flutter Developer, Web Developer and Software Engineer(SDE-2). 
